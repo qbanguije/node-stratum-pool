@@ -1,1 +1,1 @@
-### Follow the instructions in the [lcc-solo Repo](https://github.com/qbanguije/lcc-solo).
+### Follow the instructions in the [lcc-solo repository](https://github.com/qbanguije/lcc-solo).
